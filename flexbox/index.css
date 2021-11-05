@@ -1,0 +1,23 @@
+img {
+    width: 100%;
+}
+.playlist {
+    border: 10px solid black;
+    width: 1750px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.playlist-item {
+    box-sizing: border-box;
+    width: 150px;
+    border: 3px solid red;
+    text-align: center;
+    margin-right: calc(250px / 9);
+    margin-bottom: 15px;
+}
+.playlist-item:nth-child(10n) {
+    margin-right: 0;
+}

@@ -1,0 +1,10 @@
+.button-list {
+    display: inline-block;
+    padding: 30px;
+    color: red;
+    background-color: red;
+    text-align: center;
+}
+.button {
+    color: inherit;
+}
