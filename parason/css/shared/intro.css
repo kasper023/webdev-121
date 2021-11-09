@@ -1,0 +1,17 @@
+.intro {
+    display: block;
+    width: 630px;
+    margin: 0 auto;
+}
+.intro_center {
+    text-align: center;
+}
+.intro__title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.intro__subtitle {
+    font-size: 15px;
+    color: #797979;
+}
