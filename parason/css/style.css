@@ -1,0 +1,6 @@
+/* shared styles */
+@import url('shared/reset.css');
+@import url('shared/intro.css');
+
+/* components styles */
+@import url('components/header.css');
