@@ -1,1 +1,30 @@
-/* homework */
+.awesome {
+
+}
+
+.awesome-list {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.awesome-item {
+    width: 32%;
+    padding: 30px 35px;
+    background-color: #faf9ff;
+}
+.awesome-item:hover {
+    background: #fff;
+    box-shadow: 0px 10px 20px 0px rgb(33 20 106 / 10%);
+    transition: 0.5s;
+}
+
+.awesome-item__title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.awesome-item__description {
+    font-size: 15px;
+    color: #797979;
+}

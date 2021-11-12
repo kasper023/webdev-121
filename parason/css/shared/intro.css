@@ -6,6 +6,9 @@
 .intro_center {
     text-align: center;
 }
+.intro_margin {
+    margin-bottom: 85px;
+}
 .intro__title {
     font-size: 36px;
     font-weight: 700;
