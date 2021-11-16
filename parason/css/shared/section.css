@@ -1,0 +1,9 @@
+.section {
+    padding: 135px 0;
+}
+.section_small {
+    padding: 100px 0;
+}
+.section_grey {
+    background-color: #faf9ff;
+}

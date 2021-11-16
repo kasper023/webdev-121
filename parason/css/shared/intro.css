@@ -1,10 +1,11 @@
 .intro {
     display: block;
-    width: 630px;
-    margin: 0 auto;
+    width: 50%;
 }
 .intro_center {
+    width: 630px;
     text-align: center;
+    margin: 0 auto;
 }
 .intro_margin {
     margin-bottom: 85px;

@@ -1,7 +1,9 @@
 /* shared styles */
 @import url('shared/reset.css');
 @import url('shared/intro.css');
-
+@import url('shared/button.css');
+@import url('shared/section.css');
 /* components styles */
 @import url('components/header.css');
 @import url('components/awesome.css');
+@import url('components/leading.css');

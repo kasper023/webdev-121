@@ -1,0 +1,30 @@
+.button {
+    font-size: 15px;
+    padding: 12px 45px;
+    border: 1px solid #21146a;
+    border-radius: 30px;
+    color: #3a414e;
+    background-color: transparent;
+    cursor: pointer;
+}
+.button:hover {
+    color: #fff;
+    background-color: #21146a;
+    transition: all 0.4s;
+}
+
+
+.button_white {
+    background-color: #fff;
+    border-color: #fff;
+    color: #21146a;
+}
+.button_white:hover {
+    background-color: transparent;
+    color: #fff;
+    transition: all 0.4s;
+}
+
+.button_margin {
+    margin-top: 35px;
+}
