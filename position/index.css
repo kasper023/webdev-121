@@ -1,0 +1,28 @@
+body {
+    height: 3000px;
+}
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    margin: 100px auto;
+    border: 5px solid red;
+}
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.block_blue {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background-color: blue;
+}
+
+.close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+}
